@@ -1,0 +1,10 @@
+Interactive B-Spline project
+
+-------------
+This project provide interactive B-Spline creation and manipulation using
+OpenGL library.
+
+Leftside frame shows B-Spline, up to order 5.
+Rightside frame shows Basis function.
+
+GL, GLU, glut library is needed for build.
