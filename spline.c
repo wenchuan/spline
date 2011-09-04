@@ -1,5 +1,5 @@
 /*
- *  Copyright (C) 2011 by Vincent Weng <coder.vince@gmail.com>
+ *  Copyright (C) 2011 by Wenchuan Weng <wenchuan@cs.ucla.edu>
  *
  *  This program is free software; you can redistribute it and/or
  *  modify it under the terms of the GNU General Public License
